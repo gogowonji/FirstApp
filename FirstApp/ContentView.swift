@@ -6,9 +6,16 @@
 //
 
 import SwiftUI
-
+//View = protocol : set of rules
 struct ContentView: View {
+    
+    //Properties
+    
     var body: some View {
+        
+        // View Code
+        
+        
         
 //        Text("Hello, world!")
 //            .foregroundColor(Color.white)
@@ -95,6 +102,10 @@ struct ContentView: View {
             
         
         }
+        //option + command + <-
+        
+        
+        // Methods
     }
 }
 
